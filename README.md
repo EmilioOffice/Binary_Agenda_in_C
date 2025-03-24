@@ -35,8 +35,8 @@ All code in this repository is protected under the rights of the author(s). If y
 
 1. **Clone or Copy the Repository**  
    - You can copy and paste the code directly into your environment, or clone the repository if multiple files exist.
-      ```bash
-      git clone https://github.com/EmilioOffice/Binary_Agenda_in_C.git
+    ```bash
+    git clone https://github.com/EmilioOffice/Binary_Agenda_in_C.git
 
 2. **Open a Terminal/Command Prompt**  
    - Ensure you have a C compiler (e.g., GCC) installed.
